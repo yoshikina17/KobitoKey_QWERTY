@@ -1,1 +1,6 @@
 # KobitoKey_QWERTY
+
+Layer 0 QWERTY
+Layer 1 NUMBER & ARROW
+Layer 2 BT & FUNCTION
+Layer 3 AUTO MOUSE
